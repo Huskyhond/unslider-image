@@ -1,4 +1,5 @@
 === Unslider Image ===
+Contributors: pashabd
 Tags: image silder, slider image, post slider, top post slider,  jQuery unslider image
 Requires at least: 3.0.1
 Tested up to: 3.9
